@@ -1,0 +1,33 @@
+body {
+    background-color: #f5f6fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: #4b6584 !important;
+}
+
+.navbar a {
+    color: #fff !important;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.table {
+    background: #fff;
+}
+
+.table th {
+    background-color: #4b6584;
+    color: white;
+}
+
+footer {
+    background-color: #4b6584;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
